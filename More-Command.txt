@@ -9,4 +9,3 @@ To create alias
 
 git config --global alias.yourAlias "gitCommand"
 ex : git config --global alias.c "commit"
-sssns
