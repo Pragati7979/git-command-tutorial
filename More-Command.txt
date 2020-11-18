@@ -1,11 +1,18 @@
-How to create remote repository?
+*How to create remote repository?
 
-git remote add (remote_name ex:origin) url
+>git remote add (remote_name ex:origin) url
 do some ssh setting to get the access via Googling ssh setting github
-git push -u origin master
+>git push -u origin master
 and you are good to go ;-)
 
-To create alias
+*To create alias
 
-git config --global alias.yourAlias "gitCommand"
+>git config --global alias.yourAlias "gitCommand"
 ex : git config --global alias.c "commit"
+
+*To create master branch
+
+>git checkout -b NameOfYourBranch
+>do your work
+Write the following command to come at master branch
+>git checkout master
