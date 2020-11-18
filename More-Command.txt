@@ -16,3 +16,7 @@ ex : git config --global alias.c "commit"
 >do your work
 Write the following command to come at master branch
 >git checkout master
+
+*To merge (Open master branch)
+
+>git merge branchName
