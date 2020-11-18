@@ -4,3 +4,8 @@ git remote add (remote_name ex:origin) url
 do some ssh setting to get the access via Googling ssh setting github
 git push -u origin master
 and you are good to go ;-)
+
+To create alias
+
+git config --global alias.yourAlias "gitCommand"
+ex : git config --global alias.c "commit"
