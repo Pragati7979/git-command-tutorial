@@ -1,0 +1,6 @@
+How to create remote repository?
+
+git remote add (remote_name ex:origin) url
+do some ssh setting to get the access via Googling ssh setting github
+git push -u origin master
+and you are good to go ;-)
